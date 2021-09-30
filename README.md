@@ -1,6 +1,12 @@
 # Citi Bike - Bike Sharing
 
 ## Table of Contents
+- [Purpose of Analysis](#purpose-of-analysis)
+- [Results](#results)
+  * [Biking Summary Dashboard](#biking-summary-dashboard)
+  * [Checkout Time Dashboard](#checkout-time-dashboard)
+  * [Trips per Weekday, Hour, Gender, Usertype](#trips-per-weekday--hour--gender--usertype)
+- [Summary](#summary)
 
 ## Purpose of Analysis
 
