@@ -16,7 +16,7 @@ The purpose of this analysis is to visualize the trends of Citi Bike users in Ne
 
 To achieve these results, the City Bike rideshare data for August 2019 `201908-citibike-tripdata.csv.zip` was used and retrieved from [Citi Bike's System Data](https://ride.citibikenyc.com/system-data) [web page](https://s3.amazonaws.com/tripdata/index.html).
 
-The resulting Tableau Workbook can be viewed and/or downloaded online at a personal [Tableau Public Profile](https://public.tableau.com/views/NYC-August-2019-Citibike/NYCBikingStoryAugust2019?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+**_The resulting Tableau Workbook can be viewed and/or downloaded online at a personal [Tableau Public Profile](https://public.tableau.com/views/NYC-August-2019-Citibike/NYCBikingStoryAugust2019?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)_**
 
 ### Biking Summary Dashboard
 The image below shows a summary dashboard of the data retrieved from Citi Bike.
